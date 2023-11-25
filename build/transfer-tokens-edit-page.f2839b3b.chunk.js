@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkart_gharana_api=self.webpackChunkart_gharana_api||[]).push([[2492],{9452:(O,e,t)=>{t.r(e),t.d(e,{default:()=>E});var a=t(67294),s=t(52358),n=t(86706),_=t(99369),r=t(53219);const E=()=>{const P=(0,n.v9)(_._);return a.createElement(s.O4,{permissions:P.settings["transfer-tokens"].read},a.createElement(r.Z,null))}}}]);
