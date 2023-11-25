@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "offering_seos",
+  "info": {
+    "singularName": "offering-seo",
+    "pluralName": "offering-seos",
+    "displayName": "Offering SEO"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "SEO": {
+      "type": "component",
+      "repeatable": false,
+      "component": "seo.seo",
+      "required": true
+    }
+  }
+}
