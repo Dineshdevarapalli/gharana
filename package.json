@@ -8,9 +8,7 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "run": "npm run build",
-    "build": "node ./node_modules/strapi/bin/strapi.js build"
-  },
+    "run": "npm run build"  },
   "dependencies": {
     "next": "latest",
     "@strapi/plugin-i18n": "4.11.5",
