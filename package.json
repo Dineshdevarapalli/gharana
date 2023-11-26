@@ -8,7 +8,8 @@
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "run": "npm run build"
+    "run": "npm run build",
+    "build": "node ./node_modules/strapi/bin/strapi.js build"
   },
   "dependencies": {
     "next": "latest",
